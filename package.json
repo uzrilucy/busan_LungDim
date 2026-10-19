@@ -1,0 +1,13 @@
+{
+  "name": "busan-pocket",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "부산 한 조각 · 여행 일정 및 예산 관리 PWA",
+  "scripts": {
+    "test": "node --test core.test.mjs appearance.test.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
